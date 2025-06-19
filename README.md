@@ -26,6 +26,7 @@ the <b>New York City</b> region. </p>
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="Assembly" src="https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square&logoColor=white" />
   <img alt="Stata" src="https://img.shields.io/badge/-Stata-1E6C9C?style=flat-square&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 </div>
 
 <!-- Frontend & Markup -->
@@ -44,8 +45,6 @@ the <b>New York City</b> region. </p>
   <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 </div>
 
 <!-- DevOps & CI/CD -->
@@ -58,12 +57,16 @@ the <b>New York City</b> region. </p>
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </div>
 
-<!-- Cloud & Design -->
-<h5>Cloud & Design</h5>
+<!-- Cloud & Databases -->
+<h5>Cloud & Databases</h5>
 <div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="Amazon Web Services" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Google Analytics" src="https://img.shields.io/badge/-Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white" />
 </div>
 
 <h5>Network Security & Cyber Tools</h5>
