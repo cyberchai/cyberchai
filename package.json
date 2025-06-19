@@ -1,0 +1,43 @@
+{
+  "name": "cyberchai",
+  "version": "1.0.0",
+  "description": "Hi! I'm Chaira and I am an entrepreneurial software developer based in New England and BC, Canada.",
+  "keywords": [
+    "software",
+    "developer",
+    "engineer",
+    "entrepreneur",
+    "venture",
+    "business",
+    "tech",
+    "chaira",
+    "harder",
+    "smith",
+    "college",
+    "boxing",
+    "muay",
+    "thai",
+    "sports",
+    "finance",
+    "fintech",
+    "pyx"
+  ],
+  "homepage": "https://github.com/cyberchai/cyberchai#readme",
+  "bugs": {
+    "url": "https://github.com/cyberchai/cyberchai/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyberchai/cyberchai.git"
+  },
+  "license": "ISC",
+  "author": "Chaira Harder",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
