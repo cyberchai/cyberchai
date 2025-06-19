@@ -1,5 +1,7 @@
-<h3>Hey! Welcome and schön, dass du da bist! </br> I'm Chaira, an iOS developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" alt="Canada Flag" width="32" height="32"/> <b>BC, Canada</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/4628/4628635.png" width="13" alt="USA Flag"/>
-<b>the New England region</b>. </h3>
+<h3>Hey! Welcome and schön, dass du da bist! </h3>
+
+<p></br> I'm Chaira, an iOS developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" alt="Canada Flag" width="13"/> <b>BC, Canada</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/4628/4628635.png" width="13" alt="USA Flag"/>
+<b>the New England region</b>. </p>
 
 
 <h3>Where to find me</h3>
