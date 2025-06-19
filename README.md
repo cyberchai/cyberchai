@@ -38,9 +38,7 @@ Oh, and I'm always happy to connect — feel free to <a href="https://www.chaira
 <div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
   <img alt="Astro" src="https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 </div>
 
