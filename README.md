@@ -1,6 +1,6 @@
 <h3>Hey! Welcome and schön, dass du da bist! </h3>
 
-<p> I'm Chaira, an iOS developer and entrepreneur from <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" alt="Canada Flag" width="13"/> <b>BC, Canada</b> currently living in the <img src="https://cdn-icons-png.flaticon.com/512/4628/4628635.png" width="13" alt="USA Flag"/> 
+<p> I'm Chaira, an iOS developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" alt="Canada Flag" width="13"/> <b>BC, Canada</b> currently living in the <img src="https://cdn-icons-png.flaticon.com/512/4628/4628635.png" width="13" alt="USA Flag"/> 
 <b>New York City</b> region.
 
 I am passionate about building tech that supports health, financial empowerment, and community development. 
