@@ -1,11 +1,9 @@
 <h3>Hey! Welcome and schön, dass du da bist! </h3>
 
 <p> I'm Chaira, an iOS developer and entrepreneur from <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" alt="Canada Flag" width="13"/> <b>BC, Canada</b> currently living in <img src="https://cdn-icons-png.flaticon.com/512/4628/4628635.png" width="13" alt="USA Flag"/>
-the <b>New York City</b> region. </p>
+the <b>New York City</b> region.
 
-<p> I am passionate about building tech that bridges gaps in health, finance, and community development.</p>
-
-<p> Oh, and I'm always happy to connect — feel free to reach out!</p>
+I am passionate about building tech that bridges gaps in health, finance, and community development. Oh, and I'm always happy to connect — feel free to <a href="https://www.chairaharder.com" target="_blank">reach out</a>! </p>
 
 <h3>Check out my stack!</h3>
 <p>
