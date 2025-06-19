@@ -66,6 +66,12 @@ the <b>New York City</b> region. </p>
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </div>
 
+<h4>Network Security & Cyber Tools</h4>
+<div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
+  <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img alt="Kali Linux" src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+</div>
+
 
 </p>
 
