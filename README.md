@@ -1,36 +1,59 @@
-<h3>Hey! Welcome and schön, dass du da bist! </h3>
+<h2>Hey! Welcome and schön, dass du da bist! </h2>
 
 <p></br> I'm Chaira, an iOS developer and entrepreneur from <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" alt="Canada Flag" width="13"/> <b>BC, Canada</b> currently living in <img src="https://cdn-icons-png.flaticon.com/512/4628/4628635.png" width="13" alt="USA Flag"/>
 the <b>New York City</b> region. </p>
 
-</br>
-
 <h3>Check out my stack!</h3>
 <p>
-  <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
-  <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
-  <img alt="iOS" src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <!-- Frontend & Markup -->
+  <h4>Frontend & Markup</h4>
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+
+<!-- Backend & Frameworks -->
+<h4>Backend & Frameworks</h4>
+<img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=node.js&logoColor=white" />
+<img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+
+<!-- iOS / Apple Dev -->
+<h4>iOS / Apple Dev</h4>
+<img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
+<img alt="Xcode" src="https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
+<img alt="iOS" src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white" />
+
+<!-- Languages: CS / Stats / Scientific -->
+<h4>Languages: CS / Stats / Finance / Scientific</h4>
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+<img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img alt="Assembly" src="https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square&logoColor=white" />
+<img alt="Stata" src="https://img.shields.io/badge/-Stata-1E6C9C?style=flat-square&logoColor=white" />
+
+<!-- DevOps & CI/CD -->
+<h4>DevOps & CI/CD</h4>
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+<img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+
+<!-- Cloud & Design -->
+<h4>Cloud & Design</h4>
+<img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+
 </p>
 
 
-
-<h3>Where to find me</h3>
+<h3>If I'm not on Strava, you can find me here</h3>
 <p><a href="https://github.com/cyberchai" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> </a> <a href="https://www.linkedin.com/in/chaira-harder" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/chairaharder" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.chairaharder.com" target="_blank"><img alt="My Website" src="https://img.shields.io/badge/chairaharder.com-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 </p>
