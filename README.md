@@ -36,6 +36,7 @@ Oh, and I'm always happy to connect — feel free to <a href="https://www.chaira
 <!-- Frontend & Markup -->
 <h5>Frontend & Markup</h5>
 <div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
+  <img alt="Astro" src="https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
