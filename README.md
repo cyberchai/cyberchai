@@ -5,7 +5,7 @@
 
 I am passionate about building tech that supports health, financial empowerment, and community development. 
 
-Oh, and I'm always happy to connect — feel free to <a href="https://www.chairaharder.com" target="_blank">reach out</a>! </p>
+I'm always happy to connect — feel free to <a href="https://www.chairaharder.com" target="_blank">reach out</a>! </p>
 
 <h3>Check out my stack!</h3>
 <p>
