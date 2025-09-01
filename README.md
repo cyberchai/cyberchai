@@ -83,6 +83,6 @@ I'm always happy to connect — feel free to <a href="https://www.chairaharder.c
 </p>
 
 
-<h3>If I'm not on a Strava run, you can find me here</h3>
+<h3>I'm probably at the gym but you can also find me here</h3>
 <p><a href="https://github.com/cyberchai" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> </a> <a href="https://www.linkedin.com/in/chaira-harder" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/chairaharder" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.chairaharder.com" target="_blank"><img alt="My Website" src="https://img.shields.io/badge/chairaharder.com-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 </p>
