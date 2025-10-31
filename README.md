@@ -17,7 +17,7 @@ I'm always happy to connect — feel free to <a href="https://www.chairaharder.c
   <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-02569B?style=flat-square&logo=swift&logoColor=white" />
   <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
   <img alt="iOS" src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white" />
-  <img alt="watchOS" src="https://img.shields.io/badge/-watchOS-000000?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="macOS" src="https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white" />
 </div>
 
 <!-- Languages: CS / Stats / Finance / Scientific -->
