@@ -94,8 +94,4 @@
   <a href="https://www.chairaharder.com" target="_blank"><img alt="My Website" src="https://img.shields.io/badge/chairaharder.com-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyberchai&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&animate=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberchai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&animate=true)
-
 </div>
