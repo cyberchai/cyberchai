@@ -2,9 +2,7 @@
 
 # Chaira Harder
 
-### iOS Developer | Code Architect | Fighter | NYC && BC
-
-<h3>Hey! Welcome and schön, dass du da bist!</h3>
+### Software Engineer | Code Architect | Boxer | NYC & BC
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+tech+to+empower+community;Finance+%7C+Health+%7C+Community+Development)
 
@@ -12,25 +10,15 @@
 
 ---
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
-  <img src="photos/chairamuaythai.PNG" alt="Chaira Muay Thai" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s; max-width: 200px; height: auto;" />
-  <img src="photos/pyxboxing.png" alt="PYX Boxing" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s; max-width: 200px; height: auto;" />
-  <img src="photos/pyxboxingpitch.png" alt="PYX Boxing Pitch" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s; max-width: 200px; height: auto;" />
-  <img src="photos/asaplypresentation.jpg" alt="ASAPly Presentation" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s; max-width: 200px; height: auto;" />
-  <img src="photos/Simulator Screenshot - Apple Vision Pro - 2025-11-17 at 21.44.52 Wieder app.png" alt="Wieder App - Apple Vision Pro" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s; max-width: 200px; height: auto;" />
-</div>
+<p>I'm Chaira, a software engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" alt="Canada Flag" width="13"/> <b>BC, Canada</b> currently working in <img src="https://cdn-icons-png.flaticon.com/512/4628/4628635.png" width="13" alt="USA Flag"/> <b>New York City</b>.</p>
+
+<p>I'm competitive, a strong team player, and love to build.</p>
+
+<p><a href="https://www.chairaharder.com" target="_blank">Find more about me here.</a></p>
 
 ---
 
-<p>I'm Chaira, an iOS developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" alt="Canada Flag" width="13"/> <b>BC, Canada</b> currently living in the <img src="https://cdn-icons-png.flaticon.com/512/4628/4628635.png" width="13" alt="USA Flag"/> <b>New York City</b> region.</p>
-
-<p>I am passionate about building tech that supports health, financial empowerment, and community development.</p>
-
-<p>I'm always happy to connect — feel free to <a href="https://www.chairaharder.com" target="_blank">reach out</a>!</p>
-
----
-
-<h3>Check out my stack!</h3>
+<h3>My stack</h3>
 
 <h5>iOS / Apple Dev</h5>
 <div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
